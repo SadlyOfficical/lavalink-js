@@ -1,0 +1,16 @@
+{
+  "name": "music_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "DynamoYT",
+  "license": "ISC",
+  "dependencies": {
+    "erela.js": "^2.3.2",
+    "eris": "^0.14.0",
+    "lavasfy": "^2.1.2"
+  }
+}
