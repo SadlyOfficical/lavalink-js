@@ -7,10 +7,10 @@
     "start": "node ."
   },
   "author": "DynamoYT",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "erela.js": "^2.3.2",
-    "eris": "^0.14.0",
-    "lavasfy": "^2.1.2"
+    "erela.js": "^2.3.3",
+    "eris": "^0.15.1",
+    "lavasfy": "^2.2.1"
   }
 }
